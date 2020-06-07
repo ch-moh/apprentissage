@@ -1,6 +1,6 @@
 #!/usr/bin/python
 # coding=utf-8
-print ('Point A ?')
+print ('Point A ? svp')
 xA = input('Entrez xA : ')
 yA = input('Entrez yA : ')
 print ('Point B ?')
